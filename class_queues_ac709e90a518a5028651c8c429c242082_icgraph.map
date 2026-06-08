@@ -1,0 +1,5 @@
+<map id="Queues::remove" name="Queues::remove">
+<area shape="rect" id="Node000001" title="method untuk menghapus data dalam antrian data dihapuskan dari dalam variable queue_array" alt="" coords="103,5,220,32"/>
+<area shape="rect" id="Node000002" href="$_circular_queue_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="method utama untuk menjalankan program" alt="" coords="5,5,55,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,19,55,21,55,16,89,18"/>
+</map>
