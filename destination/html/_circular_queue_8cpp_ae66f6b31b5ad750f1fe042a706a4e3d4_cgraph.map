@@ -1,0 +1,9 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title="method utama untuk menjalankan program" alt="" coords="5,56,55,83"/>
+<area shape="rect" id="Node000002" href="$class_queues.html#a2a65c0877fd6a01cb34a8774b8d00b03" title="method untuk menampilkan data dalam antrian data ditampilkan yang berada dalam variable queue_array" alt="" coords="104,5,219,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,58,112,36,109,40,56,62"/>
+<area shape="rect" id="Node000003" href="$class_queues.html#aca79bcfa6868dbc1a26b7a634d55f2df" title="method untuk mmasukkan data dalam antrian data dimasukkan dalam variable queue_array" alt="" coords="108,56,214,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="54,67,95,68,90,71,56,72"/>
+<area shape="rect" id="Node000004" href="$class_queues.html#ac709e90a518a5028651c8c429c242082" title="method untuk menghapus data dalam antrian data dihapuskan dari dalam variable queue_array" alt="" coords="103,107,220,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="55,76,113,99,109,102,55,81"/>
+</map>
